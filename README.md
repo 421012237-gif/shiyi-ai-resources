@@ -24,10 +24,15 @@
 
 **第一次使用：** 下载并解压 → 在 Codex 打开文件夹 → 按教程安装 → 上传授权照片并说明表情、文字和数量 → 检查成品与返修。[查看具体步骤](docs/十一表情包.md)
 
-![已有授权作品示例：你好](assets/stickers/hello.gif)
-![已有授权作品示例：好的](assets/stickers/okay.gif)
+**案例：白色头纱 · 12 款人物表情**
 
-演示为既有 AI 辅助漫画作品，供查看画风；具体生成效果需要检查和返修。使用范围以包内说明为准。[查看制作源文件](https://github.com/421012237-gif/say01/tree/main/skills/character-sticker-studio)
+![白色头纱12款表情总览](assets/stickers/white-veil/overview.jpg)
+
+| 憋笑失败 | 白眼 | 疯狂点头 | 困到断片 |
+| --- | --- | --- | --- |
+| ![憋笑失败](assets/stickers/white-veil/01.gif) | ![白眼](assets/stickers/white-veil/02.gif) | ![疯狂点头](assets/stickers/white-veil/10.gif) | ![困到断片](assets/stickers/white-veil/12.gif) |
+
+[查看白色头纱全部 12 款动图](docs/白色头纱案例.md)。案例沿用已有授权的 AI 辅助漫画作品，供查看人物、头纱和动作效果；具体生成结果仍需检查和返修。使用范围以包内说明为准。[查看制作源文件](https://github.com/421012237-gif/say01/blob/main/skills/character-sticker-studio/SKILL.md)
 
 ## 十一动态宠物
 
