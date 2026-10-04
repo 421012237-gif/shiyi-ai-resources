@@ -1,0 +1,31 @@
+name: 使用问题
+description: 说明卡在哪一步，方便复现和处理。
+title: "[使用问题] "
+body:
+  - type: markdown
+    attributes:
+      value: 请只提供必要信息。不要上传私人照片、密码、验证码或 API 密钥。
+  - type: dropdown
+    id: resource
+    attributes:
+      label: 使用哪项资源
+      options:
+        - 十一表情包
+        - 十一动态宠物
+        - 下载或安装入口
+    validations:
+      required: true
+  - type: input
+    id: environment
+    attributes:
+      label: 系统、AI 软件与 Skill 版本
+      placeholder: 例如 macOS、Codex、v1.0.0
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: 卡住的步骤、必要报错和期望结果
+      placeholder: 我做了什么；出现什么；希望得到什么。请隐去私人信息。
+    validations:
+      required: true

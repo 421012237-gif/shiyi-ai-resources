@@ -1,0 +1,52 @@
+[
+  {
+    "resource": "十一表情包",
+    "version": "1.0.0",
+    "filename": "十一表情包-完整制作包-v1.0.0.zip",
+    "kind": "sticker_zip",
+    "bytes": 4609262,
+    "sha256": "35cfedf6b5783f91126d2ae2536b1cb5dcc15487171924feda0d77945d658940",
+    "url": "https://github.com/421012237-gif/shiyi-ai-resources/releases/download/stickers-v1.0.0/%E5%8D%81%E4%B8%80%E8%A1%A8%E6%83%85%E5%8C%85-%E5%AE%8C%E6%95%B4%E5%88%B6%E4%BD%9C%E5%8C%85-v1.0.0.zip",
+    "description_revision": null
+  },
+  {
+    "resource": "十一表情包",
+    "version": "1.0.0",
+    "filename": "十一表情包-快速开始-v1.0.0.txt",
+    "kind": "sticker_txt",
+    "bytes": 2937,
+    "sha256": "53690177dd9f9a745bb3495e041c047ca6a2f2b0617b9b92167ca4ac33889b12",
+    "url": "https://github.com/421012237-gif/shiyi-ai-resources/releases/download/stickers-v1.0.0/%E5%8D%81%E4%B8%80%E8%A1%A8%E6%83%85%E5%8C%85-%E5%BF%AB%E9%80%9F%E5%BC%80%E5%A7%8B-v1.0.0.txt",
+    "description_revision": "2026-10-04"
+  },
+  {
+    "resource": "十一动态宠物",
+    "version": "1.0.0",
+    "filename": "十一动态宠物-v1.0.0.zip",
+    "kind": "pet_zip",
+    "bytes": 20860,
+    "sha256": "382d3d8362993727ae0636a0979dc337864855996b197f43d5600ca679aec94b",
+    "url": "https://github.com/421012237-gif/shiyi-ai-resources/releases/download/pets-v1.0.0/%E5%8D%81%E4%B8%80%E5%8A%A8%E6%80%81%E5%AE%A0%E7%89%A9-v1.0.0.zip",
+    "description_revision": null
+  },
+  {
+    "resource": "十一动态宠物",
+    "version": "1.0.0",
+    "filename": "十一动态宠物-快速开始-v1.0.0.txt",
+    "kind": "pet_txt",
+    "bytes": 3538,
+    "sha256": "7afd107896308ed082b1bd3528a7ab7200966df1c077ca22b7c48484aa14033d",
+    "url": "https://github.com/421012237-gif/shiyi-ai-resources/releases/download/pets-v1.0.0/%E5%8D%81%E4%B8%80%E5%8A%A8%E6%80%81%E5%AE%A0%E7%89%A9-%E5%BF%AB%E9%80%9F%E5%BC%80%E5%A7%8B-v1.0.0.txt",
+    "description_revision": "2026-10-04"
+  },
+  {
+    "resource": "十一动态宠物",
+    "version": "1.0.0",
+    "filename": "十一动态宠物-效果展示.zip",
+    "kind": "pet_demo",
+    "bytes": 7396140,
+    "sha256": "24fbfdae16f753b95908dac87942738803332c81e9a7b2bbcb119d7d6b280e13",
+    "url": "https://github.com/421012237-gif/shiyi-ai-resources/releases/download/pets-v1.0.0/%E5%8D%81%E4%B8%80%E5%8A%A8%E6%80%81%E5%AE%A0%E7%89%A9-%E6%95%88%E6%9E%9C%E5%B1%95%E7%A4%BA.zip",
+    "description_revision": null
+  }
+]

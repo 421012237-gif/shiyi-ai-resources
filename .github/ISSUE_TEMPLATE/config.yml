@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 安装前先读这里
+    url: https://github.com/421012237-gif/shiyi-ai-resources/blob/main/docs/%E5%AE%89%E8%A3%85%E4%B8%8E%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98.md
+    about: 下载、目录、安装与工具条件说明。
