@@ -8,8 +8,8 @@
 
 | 项目 | 能做什么 | 版本与状态 | 从这里开始 |
 | --- | --- | --- | --- |
-| **十一表情包** | 制作人物漫画聊天表情、按编号返修、导出 GIF | **v1.0.0**；已有本机制作记录 | [先读教程](docs/十一表情包.md) · [下载完整包](https://github.com/421012237-gif/shiyi-ai-resources/releases/download/stickers-v1.0.0/%E5%8D%81%E4%B8%80%E8%A1%A8%E6%83%85%E5%8C%85-%E5%AE%8C%E6%95%B4%E5%88%B6%E4%BD%9C%E5%8C%85-v1.0.0.zip) |
-| **十一动态宠物** | 查看授权人物演示，尝试制作人物动态宠物 | **v1.0.0**；新照片完整动画仍在打磨 | [先读教程](docs/十一动态宠物.md) · [下载安装包](https://github.com/421012237-gif/shiyi-ai-resources/releases/download/pets-v1.0.0/%E5%8D%81%E4%B8%80%E5%8A%A8%E6%80%81%E5%AE%A0%E7%89%A9-v1.0.0.zip) |
+| **十一表情包** | 制作人物漫画聊天表情、按编号返修、导出 GIF | **v1.0.0**；已有本机制作记录 | [先读教程](docs/十一表情包.md) · [下载完整包](https://github.com/421012237-gif/shiyi-ai-resources/releases/download/stickers-v1.0.0/shiyi-stickers-v1.0.0.zip) |
+| **十一动态宠物** | 查看授权人物演示，尝试制作人物动态宠物 | **v1.0.0**；新照片完整动画仍在打磨 | [先读教程](docs/十一动态宠物.md) · [下载安装包](https://github.com/421012237-gif/shiyi-ai-resources/releases/download/pets-v1.0.0/shiyi-pet-v1.0.0.zip) |
 
 [飞书知识库](https://m1egimm0cix.feishu.cn/wiki/WXoHwvxv3icBH5kUq4gcQeKonXe) · [安装与常见问题](docs/安装与常见问题.md) · [更新记录](CHANGELOG.md)
 
@@ -19,8 +19,8 @@
 
 | 文件 | 用途 |
 | --- | --- |
-| [快速开始 TXT](https://github.com/421012237-gif/shiyi-ai-resources/releases/download/stickers-v1.0.0/%E5%8D%81%E4%B8%80%E8%A1%A8%E6%83%85%E5%8C%85-%E5%BF%AB%E9%80%9F%E5%BC%80%E5%A7%8B-v1.0.0.txt) | 安装与首次制作说明，先读；可保存到电脑 |
-| [完整制作包 ZIP](https://github.com/421012237-gif/shiyi-ai-resources/releases/download/stickers-v1.0.0/%E5%8D%81%E4%B8%80%E8%A1%A8%E6%83%85%E5%8C%85-%E5%AE%8C%E6%95%B4%E5%88%B6%E4%BD%9C%E5%8C%85-v1.0.0.zip) | 制作必需，解压后保留整个 `character-sticker-studio` 文件夹 |
+| [快速开始 TXT](https://github.com/421012237-gif/shiyi-ai-resources/releases/download/stickers-v1.0.0/shiyi-stickers-quickstart-v1.0.0.txt) | 安装与首次制作说明，先读；可保存到电脑 |
+| [完整制作包 ZIP](https://github.com/421012237-gif/shiyi-ai-resources/releases/download/stickers-v1.0.0/shiyi-stickers-v1.0.0.zip) | 制作必需，解压后保留整个 `character-sticker-studio` 文件夹 |
 
 **第一次使用：**下载并解压 → 在 Codex 打开文件夹 → 按教程安装 → 上传授权照片并说明表情、文字和数量 → 检查成品与返修。[查看具体步骤](docs/十一表情包.md)
 
@@ -37,9 +37,9 @@
 
 | 文件 | 用途 |
 | --- | --- |
-| [快速开始 TXT](https://github.com/421012237-gif/shiyi-ai-resources/releases/download/pets-v1.0.0/%E5%8D%81%E4%B8%80%E5%8A%A8%E6%80%81%E5%AE%A0%E7%89%A9-%E5%BF%AB%E9%80%9F%E5%BC%80%E5%A7%8B-v1.0.0.txt) | 安装与首次制作说明，先读；可保存到电脑 |
-| [安装包 ZIP](https://github.com/421012237-gif/shiyi-ai-resources/releases/download/pets-v1.0.0/%E5%8D%81%E4%B8%80%E5%8A%A8%E6%80%81%E5%AE%A0%E7%89%A9-v1.0.0.zip) | 制作必需，解压后保留整个 `shiyi-dynamic-pet` 文件夹 |
-| [效果展示 ZIP](https://github.com/421012237-gif/shiyi-ai-resources/releases/download/pets-v1.0.0/%E5%8D%81%E4%B8%80%E5%8A%A8%E6%80%81%E5%AE%A0%E7%89%A9-%E6%95%88%E6%9E%9C%E5%B1%95%E7%A4%BA.zip) | 可选演示，解压后打开 `人物效果.html` 或播放 `全部动作.mp4` |
+| [快速开始 TXT](https://github.com/421012237-gif/shiyi-ai-resources/releases/download/pets-v1.0.0/shiyi-pet-quickstart-v1.0.0.txt) | 安装与首次制作说明，先读；可保存到电脑 |
+| [安装包 ZIP](https://github.com/421012237-gif/shiyi-ai-resources/releases/download/pets-v1.0.0/shiyi-pet-v1.0.0.zip) | 制作必需，解压后保留整个 `shiyi-dynamic-pet` 文件夹 |
+| [效果展示 ZIP](https://github.com/421012237-gif/shiyi-ai-resources/releases/download/pets-v1.0.0/shiyi-pet-demo-v1.0.0.zip) | 可选演示，解压后打开 `人物效果.html` 或播放 `全部动作.mp4` |
 
 **第一次使用：**下载并解压 → 按教程安装与检查功能 → 上传授权照片、说明人物特征和动作 → 看预览并返修 → 通过检查后再确认替换。[查看具体步骤](docs/十一动态宠物.md)
 
